@@ -36,5 +36,7 @@ for PUT method with json row.
 #####
 7. If you want to remove item of table you can write next url path /books/{id} (for example http://localhost:8000/books/3)
 for DELETE method.
+#####
+8. For run project write in your command line: "go run main.go".
 
 ############### Good Luck With Golang ################
